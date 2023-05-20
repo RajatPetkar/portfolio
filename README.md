@@ -38,9 +38,9 @@ To view How website Look's Like click on the above link
 
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/RajatPetkar/portfolio/blob/main/screenshot/Screenshot%20(15).png)
+![App Screenshot](https://github.com/RajatPetkar/portfolio/blob/main/screenshot/Screenshot%20(17).png)
+![App Screenshot](https://github.com/RajatPetkar/portfolio/blob/main/screenshot/Screenshot%20(16).png)
 
 ## Acknowledgements
 
